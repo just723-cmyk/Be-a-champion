@@ -1,0 +1,6 @@
+{
+  "name": "ApexPitch - DLS & FC Mobile Esports Tournament Platform",
+  "description": "Production tournament and cash fixture platform architecture, database models, REST/WebSocket API endpoints, and mobile/web UI for Dream League Soccer and EA FC Mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
